@@ -1,6 +1,6 @@
 # Hi there 👋 I'm J. Venkata Varshitha
 
-🎓 B.Tech 3rd Year CSE Student  
+🎓 B.Tech 4th Year CSE Student  
 💡 Passionate about Full-Stack Development and Python  
 🚀 Building apps that solve real-world problems  
 🌱 Currently learning DSA and Web Development  
