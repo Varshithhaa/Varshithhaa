@@ -10,8 +10,8 @@
 
 ## 🔧 Technical Skills
 
-- **Languages:** Python, Java, C, SQL, JavaScript  
-- **Web Development:** HTML, CSS, JavaScript  
+- **Languages:** Python, Java, C
+- **Web Development:** HTML, CSS, JavaScript,Node.js,React.js  
 - **Databases:** MySQL, MongoDB  
 - **Tools:** Git, VS Code, Google Colab  
 
